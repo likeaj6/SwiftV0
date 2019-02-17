@@ -20,4 +20,4 @@ meta_description: >-
 
 Founded in September 2017, SWIFT is a financial literacy organization which works with you to create resources and events that improve your financial well-being.
 
-Through these events and resources we hope to provide the means for you to better understand your personal finances and take the necessary steps to attain a level of f
+Through these events and resources we hope to provide the means for you to better understand your personal finances.
