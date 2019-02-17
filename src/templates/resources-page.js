@@ -33,7 +33,7 @@ export const pricingPageQuery = graphql`
         title
         meta_title
         meta_description
-        pricing {
+        resources {
           heading
           description
           plans {

@@ -1,8 +1,13 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
-import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
+
+import finance from '../../assets/finance.svg'
+import savings from '../../assets/savings.svg'
+
+import 'semantic-ui-css/semantic.min.css'
+import './index.css'
 
 const HomePageTemplate = ({
   title,
@@ -24,9 +29,10 @@ const HomePageTemplate = ({
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <h1 className='title'>
+                <h1 style={{textAlign: 'center', fontFamily: 'Avenir-Medium', fontSize: '4rem'}} className='title'>
                   {title}
                 </h1>
+                {/* <img src={seed_grow} style={{ height: '30rem', width: '30rem'}} /> */}
               </div>
             </div>
           </div>
@@ -41,14 +47,15 @@ const HomePageTemplate = ({
             <div className='column is-10 is-offset-1'>
               <div className='content'>
                 <div>
-                  <h3 className='has-text-weight-semibold is-size-2'>
+                  <h3 className='has-text-weight-semibold is-size-2' style={{ textAlign: 'center' }}>
                     {heading}
                   </h3>
-                  <p>{description}</p>
+                  <img src={finance} style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', height: '15rem' }} />
+                  {/* <img src={savings} style={ display: 'block', marginLeft: 'auto', marginRight: 'auto', height: '15rem'}} /> */}
+                  <p style={{textAlign: 'center'}}>{description}</p>
                 </div>
-                <Offerings gridItems={offerings.blurbs} />
-                <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
-                <Testimonials testimonials={testimonials} />
+                {/* <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
+                <Testimonials testimonials={testimonials} /> */}
               </div>
             </div>
           </div>

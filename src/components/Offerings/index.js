@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+import './index.css'
+
 const Offerings = ({ gridItems }) => (
   <div className='columns is-multiline'>
     {gridItems.map(item => (
