@@ -8,12 +8,16 @@ meta_description: >-
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 ---
-# **The Story**
+# **Story**
 
-111
 
-# **The Facts**
 
-**11**
+# **Values**
 
-# **The Mission**
+
+
+# **Mission**
+
+Founded in September 2017, SWIFT is a financial literacy organization which works with you to create resources and events that improve your financial well-being.
+
+Through these events and resources we hope to provide the means for you to better understand your personal finances and take the necessary steps to attain a level of f
