@@ -9,7 +9,7 @@ contacts:
     email: SWIFTfinlit@gmail.com
 meta_title: Contact Us | SWIFT-FL
 meta_description: >-
-  Email any questions or inquires to SWIFTfinlit@gmail.com and we'll be sure to
-  answer you as soon as we
+  For any questions or inquiries email SWIFTfinlit@gmail.com and we will get to
+  you as soon as we can.
 ---
 
