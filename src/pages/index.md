@@ -67,10 +67,6 @@ testimonials:
       diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
       ligula. 
 meta_title: Home | SWIFT Financial Literacy
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_description: The home page of SWIFT-FL!
 ---
 
