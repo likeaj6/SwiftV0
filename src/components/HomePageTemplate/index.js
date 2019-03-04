@@ -1,6 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import { Header, Icon } from 'semantic-ui-react'
 import Offerings from '../Offerings'
+import {CalendarEmbed} from '../CalendarPageTemplate'
 import PropTypes from 'prop-types'
 
 import finance from '../../assets/finance.svg'
@@ -51,8 +53,26 @@ const HomePageTemplate = ({
                     {heading}
                   </h3>
                   <img src={finance} style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', height: '15rem' }} />
-                  {/* <img src={savings} style={ display: 'block', marginLeft: 'auto', marginRight: 'auto', height: '15rem'}} /> */}
+                  <img src={savings} style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', height: '15rem'}} />
                   <p style={{textAlign: 'center'}}>{description}</p>
+                </div>
+                {/* <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
+                <Testimonials testimonials={testimonials} /> */}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section className='section section--gradient'>
+      <div className='container'>
+
+        <div className='section'>
+          <div className='columns'>
+            <div className='column is-10 is-offset-1'>
+              <div className='content'>
+                <div>
+                  <CalendarEmbed />
                 </div>
                 {/* <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
                 <Testimonials testimonials={testimonials} /> */}

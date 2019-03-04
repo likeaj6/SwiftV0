@@ -3,7 +3,7 @@ import config from '../../../data/config'
 
 const Footer = () => {
   return (
-    <footer className='footer'>
+    <footer className='footer' style={{ height: '20px'}}>
       <div className='container'>
         <div className='content has-text-centered'>
           <p>
