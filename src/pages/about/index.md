@@ -10,8 +10,11 @@ Being broke is never fun and feeling like you have no way to help yourself is ev
 
  SWIFT is a financial literacy organization which works with you to create resources and events that improve your financial well-being.
 
-Through these events and resources we hope to provide the means for you to better understand your personal finances and become financially independent.
-
-SWIFT was started in 2017 by Joshua Collin and Rafi Hares with the purpose of aiding 
+Through these events and resources we hope to provide the means for you to better understand your personal finances and become financially independent. 
 
 # **What we Value**
+
+1. Teamwork
+2. Community
+3. Accountability
+4. Family
