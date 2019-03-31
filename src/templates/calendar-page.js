@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import {graphql} from 'gatsby'
 import {HTMLContent} from '../components/Content'
-import CalendarPage from '../components/Calendar'
+import Calendar from '../components/CalendarPageTemplate'
 
 const CalendarPage = ({data}) => {
   const {markdownRemark: post} = data
@@ -14,7 +14,7 @@ const CalendarPage = ({data}) => {
         <title>{post.frontmatter.meta_title}</title>
         <meta name='description' content={post.frontmatter.meta_description} />
       </Helmet>
-      <CalendarPage
+      <Calendar
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
