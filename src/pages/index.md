@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: SWIFT Financial Literacy
-heading: Helping you achieve your financial wellness
+heading: Helping you achieve a better financial Well-being
 description: One Step at a time
 offerings:
   blurbs:
@@ -30,6 +30,18 @@ offerings:
         interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
         Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam
         consectetur congue.
+    - image: /img/meeting-space.png
+      text: >
+        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
+        tincidunt mi. Vivamus  sed erat iaculis mauris efficitur vehicula.
+        Aliquam sed urna at tellus ullamcorper  venenatis molestie ut mi. Duis
+        vel libero ac lectus cursus tempus. Nullam in dictum felis.  Nam sed
+        laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac
+        scelerisque nisi  sodales. Cras tristique laoreet tempor. Mauris vitae
+        dolor eu mauris malesuada cursus.  Praesent elit lectus, iaculis vel
+        odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
+        massa quis euismod convallis, felis elit sodales urna, at aliquet mi
+        elit auctor  risus.
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
@@ -43,34 +55,18 @@ offerings:
         sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet
         porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non
         risus.
-    - image: /img/meeting-space.png
-      text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
-        tincidunt mi. Vivamus  sed erat iaculis mauris efficitur vehicula.
-        Aliquam sed urna at tellus ullamcorper  venenatis molestie ut mi. Duis
-        vel libero ac lectus cursus tempus. Nullam in dictum felis.  Nam sed
-        laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac
-        scelerisque nisi  sodales. Cras tristique laoreet tempor. Mauris vitae
-        dolor eu mauris malesuada cursus.  Praesent elit lectus, iaculis vel
-        odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
-        massa quis euismod convallis, felis elit sodales urna, at aliquet mi
-        elit auctor  risus.
 testimonials:
-  - author: Vaibhav Sharma
-    quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
   - author: Subarashi San
     quote: >-
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
+  - author: Vaibhav Sharma
+    quote: >-
+      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
+      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
+      ligula. 
 meta_title: Home | SWIFT Financial Literacy
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_description: The home page of SWIFT-FL!
 ---
 
