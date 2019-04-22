@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: SWIFT Financial Literacy
-heading: Helping you achieve your financial wellness
+heading: Helping you achieve a better financial Well-being
 description: One Step at a time
 offerings:
   blurbs:
